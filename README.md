@@ -10,5 +10,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://tenor.com/view/work-computer-gif-9810614" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
