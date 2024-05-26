@@ -1,11 +1,11 @@
 <!-- @format -->
 
 <p align = "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Doubiest&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Doubiest&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=pink"/>
 </p>
 
 <p align = "center">
-    <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Welcome+To+My+GitHub;++;Cloud+here+;Active+learner;Love+to+sleep+and+learn+new+stuff">
+    <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Welcome+To+My+GitHub;++;Doubiest+here+;Active+learner;Love+to+sleep+and+learn+new+stuff">
 </p>
 
 <p align = "center">
