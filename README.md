@@ -1,7 +1,7 @@
 <!-- @format -->
 
 <p align = "center">
-    <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cloud&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Doubiest%20)"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Doubiest&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </p>
 
 <p align = "center">
@@ -39,6 +39,7 @@
     <a href = "https://discord.com/invite/elifers"><b>Discord  </b></a>
    
 </p>
+
 
   ### :hammer_and_wrench: Languages and Tools :
 <div>
