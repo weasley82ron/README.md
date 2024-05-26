@@ -10,7 +10,7 @@
 
 <p align = "center">
     <a href="https://discord.gg/elifers" target="_blank"> 
-    <img src="https://discord.com/api/guilds/1196474088189874276/widget.png?style=banner2" />
+    <img src="https://discord.com/api/guilds/770132871934771242/widget.png?style=banner2" />
     </a> 
 </p>
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=yuvrajkushwahh&label=Profile%20views&color=0e75b6&style=flat"/>
+    <img src = "https://komarev.com/ghpvc/?username=weasley82ron&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 
@@ -31,12 +31,12 @@
 </p>
 
 <p align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=yuvrajkushwah"/>
+    <img src = "https://github-profile-trophy.vercel.app/?username=weasley82ron"/>
 </p>
 
 <p align = "center">
     <a href = "contactme@kushwahji.xyz"><b>Email & </b></a>
-    <a href = "https://discord.com/invite/elifers"><b>Discord  </b></a>
+    <a href = "https://discord.com/invite/nemesisdev"><b>Discord  </b></a>
    
 </p>
 
